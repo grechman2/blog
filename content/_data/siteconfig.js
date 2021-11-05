@@ -13,11 +13,11 @@ module.exports = {
     author: "Vitaliy Hretchko",
     // Site description, shown below site image (optional)
     description:
-        "My diary on development (Just want to clarify things for myself).",
+        "My diary on development (Just want to clarify things for myself)",
     // OpenGraph default image, in case you don't have an `image`
     // set in your Markdown frontmatter; relevant for social
     // sharing.
-    openGraphDefaultImage: "/assets/images/opengraph.jpg",
+    openGraphDefaultImage: "/assets/images/sidebar_profile.png",
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
     socialGitHub: "grechman2",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
